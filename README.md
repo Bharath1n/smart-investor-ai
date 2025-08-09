@@ -13,6 +13,7 @@ Features include:
 - Transparent model explanations via LIME and SHAP to build user trust.
 - A sleek, responsive dashboard built with React (Vite) showcasing analytics, forecasts, and risk indicators.
 - Python FastAPI backend connected to a cloud-hosted PostgreSQL database.
+- Dockerization for seamless deployment and scalability.
 - Seamless cloud deployment ensuring scalable and secure access.
 
 This project aims to bridge the gap between complex financial analytics and everyday investor decision-making by delivering clarity, accuracy, and actionable intelligence.
