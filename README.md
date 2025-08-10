@@ -16,6 +16,7 @@ Features include:
 - Dockerization for seamless deployment and scalability.
 - Seamless cloud deployment ensuring scalable and secure access.
 
+
 This project aims to bridge the gap between complex financial analytics and everyday investor decision-making by delivering clarity, accuracy, and actionable intelligence.
 
 ### Getting Started
